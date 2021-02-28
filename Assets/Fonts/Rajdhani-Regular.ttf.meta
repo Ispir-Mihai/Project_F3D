@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fd7efe2368900fd44b8f0126807ed509
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rajdhani
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 705ce0405b138d843b43b2023084b970, type: 3}
+  - {fileID: 12800000, guid: c0d7f79512123944fb8576aafd515499, type: 3}
+  - {fileID: 12800000, guid: eaa17cc8454860f42878b83a6b87f161, type: 3}
+  - {fileID: 12800000, guid: b73d35b4269270740bdebc5a8e3eea0c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

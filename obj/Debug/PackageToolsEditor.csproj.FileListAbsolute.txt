@@ -1,0 +1,2 @@
+G:\Unity\Projects\Unity Collabs\nerd pitch\obj\Debug\PackageToolsEditor.csprojAssemblyReference.cache
+G:\Unity\Projects\Unity Collabs\nerd pitch\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache

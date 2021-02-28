@@ -1,0 +1,2 @@
+G:\Unity\Projects\Unity Collabs\nerd pitch\obj\Debug\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
+G:\Unity\Projects\Unity Collabs\nerd pitch\obj\Debug\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
